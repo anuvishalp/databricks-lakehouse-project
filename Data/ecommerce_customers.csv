@@ -1,0 +1,16 @@
+customer_id,email,signup_timestamp,country,membership_tier
+1001,ALICE.JOHNSON@example.com,2024-01-15 09:30:00,USA,Gold
+1002,bob.smith@example.com ,2024-02-02 11:15:00,USA,Silver
+1003,CHARLIE.BROWN@example.com,2024-02-18 14:05:00,Canada,Bronze
+1004,diana.lee@example.com,2024-03-01 08:45:00,UK,Gold
+1005,ethan.wilson@example.com,2024-03-12 16:20:00,India,Silver
+1006,fatima.khan@example.com,2024-04-07 10:00:00,India,Gold
+1007,george.miller@example.com,2024-04-21 12:30:00,Australia,Bronze
+1008,hana.chen@example.com,2024-05-03 13:10:00,Canada,Silver
+1009,isaac.davis@example.com,2024-05-19 17:40:00,USA,Gold
+1010,julia.martin@example.com,2024-06-11 09:05:00,UK,Silver
+1011,kevin.park@example.com,2024-06-25 15:55:00,South Korea,Bronze
+1012,lara.garcia@example.com,2024-07-08 10:25:00,Spain,Gold
+1013,michael.taylor@example.com,2024-07-22 11:45:00,USA,Silver
+1014,nina.patel@example.com,2024-08-14 14:15:00,India,Gold
+1015,oliver.white@example.com,2024-09-02 08:20:00,Australia,Bronze
